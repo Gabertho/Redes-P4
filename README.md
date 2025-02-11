@@ -1,3 +1,16 @@
+# Autores
+<ul>
+    <li> Gabriel Andreazi Bertho, 790780 </li>
+    <li> Guilherme Salvador Escher, 792528 </li>
+    <li> Leo Rodrigues Aoki, 801926 </li>
+    <li> Lucas Silva Mendes, 800247 </li>
+    <li> Sebastião Venâncio Guimarães, 790850 </li>
+
+    
+</ul>
+
+
+
 # Camada de enlace – SLIP
 
 Nesta prática, vamos implementar o SLIP, um protocolo de camada de enlace muito simples que funciona sobre linhas seriais. O SLIP é definido pela [RFC 1055](https://tools.ietf.org/html/rfc1055), que tem apenas 6 páginas (e isso incluindo exemplos de código em C)!
